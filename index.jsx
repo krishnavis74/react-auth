@@ -2,7 +2,7 @@ import React from 'react'
 
 const index = () => {
   return (
-    <div>index my name is krishna</div>
+    <div>index my name is krishna update swcond time</div>
   )
 }
 
